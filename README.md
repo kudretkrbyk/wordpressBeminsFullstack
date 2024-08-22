@@ -1,1 +1,1 @@
-# wordpressBeminsFullstack
+# wordpressBeminsFullstack project
