@@ -1,0 +1,1123 @@
+{
+  "categories": [
+    {
+      "name": "Top",
+
+      "subcategories": ["Shirts", "dress shirt"],
+      "image": "https://wpbingosite.com/wordpress/bemins/wp-content/uploads/2023/11/category.jpg"
+    },
+
+    {
+      "name": "Glasses",
+
+      "subcategories": [],
+      "image": "https://wpbingosite.com/wordpress/bemins/wp-content/uploads/2023/11/category-2.jpg"
+    },
+    {
+      "name": "Sandals",
+
+      "subcategories": [],
+      "image": "https://wpbingosite.com/wordpress/bemins/wp-content/uploads/2023/11/category-5.jpg"
+    },
+    {
+      "name": "Bag",
+
+      "subcategories": [],
+      "image": "https://wpbingosite.com/wordpress/bemins/wp-content/uploads/2023/11/category-3.jpg"
+    },
+    {
+      "name": "Shoes",
+
+      "subcategories": [],
+      "image": "https://wpbingosite.com/wordpress/bemins/wp-content/uploads/2023/11/category-1.jpg"
+    },
+    {
+      "name": "Furniture",
+
+      "subcategories": ["chair", "decor"],
+      "image": "https://wpbingosite.com/wordpress/bemins/wp-content/uploads/2024/03/category-fr.jpg"
+    },
+    {
+      "name": "jewerly",
+
+      "subcategories": ["rings", "Earrings"],
+      "image": "https://wpbingosite.com/wordpress/bemins/wp-content/uploads/2024/03/category-jw.jpg"
+    },
+    {
+      "name": "Hat",
+
+      "subcategories": [],
+      "image": "https://wpbingosite.com/wordpress/bemins/wp-content/uploads/2023/12/products-15-1.jpg"
+    }
+  ],
+  "product": [
+    {
+      "id": 1,
+      "ad": "90s Chino Pant",
+      "aciklama": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+      "fiyat": 50.0,
+      "colors": ["Beige", "Black"],
+      "size": ["M", "S", "L"],
+      "SKU": "D1116",
+      "kategori": "Top",
+      "altKategori": "Shirts",
+      "marka": "Marka 1",
+      "tag": ["Hot"],
+
+      "indirim": 10,
+      "indirimBitis": "2024-12-31",
+
+      "puan": 4.5,
+      "tarih": "2024-07-01",
+      "fotograflar": [
+        "https://wpbingosite.com/wordpress/bemins/wp-content/uploads/2020/12/products-1-1.jpg",
+        "https://wpbingosite.com/wordpress/bemins/wp-content/uploads/2020/12/products-2-1.jpg",
+        "https://wpbingosite.com/wordpress/bemins/wp-content/uploads/2020/12/products-3-1.jpg",
+        "https://wpbingosite.com/wordpress/bemins/wp-content/uploads/2020/12/products-4-2.jpg"
+      ]
+    },
+    {
+      "id": 2,
+      "ad": "Angie Skirt",
+      "fiyat": 100.0,
+      "aciklama": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+      "colors": ["Brick", "Black"],
+      "size": ["M", "S", "L"],
+      "SKU": "D2300-1",
+      "kategori": "Top",
+      "altKategori": "Shirts",
+      "marka": "???",
+      "tag": ["Hot"],
+
+      "indirim": 10,
+      "indirimBitis": "2024-12-31",
+
+      "puan": 4.5,
+      "tarih": "2024-07-01",
+      "fotograflar": [
+        "https://wpbingosite.com/wordpress/bemins/wp-content/uploads/2019/04/products-11-1.jpg",
+        "https://wpbingosite.com/wordpress/bemins/wp-content/uploads/2019/04/products-12-1.jpg",
+        "https://wpbingosite.com/wordpress/bemins/wp-content/uploads/2019/04/products-13-1.jpg",
+        "https://wpbingosite.com/wordpress/bemins/wp-content/uploads/2019/04/products-14-1.jpg"
+      ]
+    },
+    {
+      "id": 3,
+      "ad": "Band Straw Hat",
+      "fiyat": 20.0,
+      "aciklama": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+      "colors": ["Beige", "Black"],
+      "size": [],
+      "SKU": "D2300-1",
+      "kategori": "Hat",
+      "altKategori": "",
+      "marka": "???",
+      "tag": ["Hot"],
+
+      "indirim": 10,
+      "indirimBitis": "2024-12-31",
+
+      "puan": 4.5,
+      "tarih": "2024-07-01",
+      "fotograflar": [
+        "https://wpbingosite.com/wordpress/bemins/wp-content/uploads/2023/12/products-15-1.jpg",
+        "https://wpbingosite.com/wordpress/bemins/wp-content/uploads/2023/12/products-16-1.jpg",
+        "https://wpbingosite.com/wordpress/bemins/wp-content/uploads/2023/12/products-17-1.jpg",
+        "https://wpbingosite.com/wordpress/bemins/wp-content/uploads/2023/12/products-18-1.jpg"
+      ]
+    },
+    {
+      "id": 4,
+      "ad": "Black Gold",
+      "fiyat": 200.0,
+      "aciklama": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+      "colors": [],
+      "size": [],
+      "SKU": "D2300-3-2-3",
+      "kategori": "Glasses",
+      "altKategori": "",
+      "marka": "???",
+      "tag": ["Hot", "trend"],
+
+      "indirim": 10,
+      "indirimBitis": "2024-12-31",
+
+      "puan": 4.5,
+      "tarih": "2024-07-01",
+      "fotograflar": [
+        "https://wpbingosite.com/wordpress/bemins/wp-content/uploads/2020/12/products-19.jpg",
+        "https://wpbingosite.com/wordpress/bemins/wp-content/uploads/2020/12/products-20.jpg"
+      ]
+    },
+    {
+      "id": 5,
+      "ad": "Caramel Midnight",
+      "fiyat": 50.0,
+      "aciklama": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+      "colors": [],
+      "size": [],
+      "SKU": "D2300-3-1",
+      "kategori": "Glasses",
+      "altKategori": "",
+      "marka": "???",
+      "tag": ["Hot", "trend"],
+
+      "indirim": 10,
+      "indirimBitis": "2024-12-31",
+
+      "puan": 4.5,
+      "tarih": "2024-07-01",
+      "fotograflar": [
+        "https://wpbingosite.com/wordpress/bemins/wp-content/uploads/2020/12/products-21.jpg",
+        "https://wpbingosite.com/wordpress/bemins/wp-content/uploads/2020/12/products-22.jpg"
+      ]
+    },
+    {
+      "id": 6,
+      "ad": "Cloud 5 Ready",
+      "fiyat": 100.0,
+      "aciklama": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+      "colors": [],
+      "size": [],
+      "SKU": "D2300-3-2-4",
+      "kategori": "Shoes",
+      "altKategori": "",
+      "marka": "???",
+      "tag": ["life style", "trend"],
+
+      "indirim": 10,
+      "indirimBitis": "2024-12-31",
+
+      "puan": 4.5,
+      "tarih": "2024-07-01",
+      "fotograflar": [
+        "https://wpbingosite.com/wordpress/bemins/wp-content/uploads/2020/12/products-23.jpg",
+        "https://wpbingosite.com/wordpress/bemins/wp-content/uploads/2020/12/products-24.jpg"
+      ]
+    },
+    {
+      "id": 7,
+      "ad": "Cloud X Shift",
+      "fiyat": 40.0,
+      "aciklama": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+      "colors": [],
+      "size": [],
+      "SKU": "D2409",
+      "kategori": "Shoes",
+      "altKategori": "",
+      "marka": "???",
+      "tag": ["life style", "trend", "Blue"],
+
+      "indirim": 10,
+      "indirimBitis": "2024-12-31",
+
+      "puan": 4.5,
+      "tarih": "2024-07-01",
+      "fotograflar": [
+        "https://wpbingosite.com/wordpress/bemins/wp-content/uploads/2020/12/products-25.jpg",
+        "https://wpbingosite.com/wordpress/bemins/wp-content/uploads/2020/12/products-26.jpg"
+      ]
+    },
+    {
+      "id": 8,
+      "ad": "Cloudboom Echo",
+      "fiyat": 40.0,
+      "aciklama": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+      "colors": [],
+      "size": [],
+      "SKU": "D1112",
+      "kategori": "Shoes",
+      "altKategori": "",
+      "marka": "???",
+      "tag": ["life style", "hot"],
+
+      "indirim": 10,
+      "indirimBitis": "2024-12-31",
+
+      "puan": 4.5,
+      "tarih": "2024-07-01",
+      "fotograflar": [
+        "https://wpbingosite.com/wordpress/bemins/wp-content/uploads/2020/12/products-23.jpg",
+        "https://wpbingosite.com/wordpress/bemins/wp-content/uploads/2020/12/products-24.jpg"
+      ]
+    },
+    {
+      "id": 9,
+      "ad": "Cloudstratus",
+      "fiyat": 120.0,
+      "aciklama": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+      "colors": [],
+      "size": ["34", "35", "36", "37", "38", "39"],
+      "SKU": "D1112",
+      "kategori": "Shoes",
+      "altKategori": "",
+      "marka": "???",
+      "tag": ["life style", "hot"],
+
+      "indirim": 10,
+      "indirimBitis": "2024-12-31",
+
+      "puan": 4.5,
+      "tarih": "2024-07-01",
+      "fotograflar": [
+        "https://wpbingosite.com/wordpress/bemins/wp-content/uploads/2020/12/products-29-1.jpg",
+        "https://wpbingosite.com/wordpress/bemins/wp-content/uploads/2020/12/products-30-1.jpg"
+      ]
+    },
+    {
+      "id": 10,
+      "ad": "Comfy Denim Shirt",
+      "fiyat": 80.0,
+      "aciklama": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+      "colors": ["green", "Black", "Blue"],
+      "size": ["L", "M", "S", "XL"],
+      "SKU": "D1112",
+      "kategori": "Top",
+      "altKategori": "Shirts",
+      "marka": "???",
+      "tag": ["life style", "hot"],
+
+      "indirim": 10,
+      "indirimBitis": "2024-12-31",
+
+      "puan": 4.5,
+      "tarih": "2024-07-01",
+      "fotograflar": [
+        "https://wpbingosite.com/wordpress/bemins/wp-content/uploads/2020/04/products-31.jpg",
+        "https://wpbingosite.com/wordpress/bemins/wp-content/uploads/2020/04/products-32-1.jpg",
+        "https://wpbingosite.com/wordpress/bemins/wp-content/uploads/2020/04/products-33-1.jpg",
+        "https://wpbingosite.com/wordpress/bemins/wp-content/uploads/2020/04/products-34-1.jpg"
+      ]
+    },
+    {
+      "id": 11,
+      "ad": "Copper Forest",
+      "fiyat": 80.0,
+      "aciklama": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+      "colors": ["lilac", "red", "yellow"],
+      "size": [],
+      "SKU": "D1112",
+      "kategori": "Glasses",
+      "altKategori": "",
+      "marka": "???",
+      "tag": ["trend", "hot"],
+
+      "indirim": 10,
+      "indirimBitis": "2024-12-31",
+
+      "puan": 4.5,
+      "tarih": "2024-07-01",
+      "fotograflar": [
+        "https://wpbingosite.com/wordpress/bemins/wp-content/uploads/2023/12/products-35-1.jpg",
+        "https://wpbingosite.com/wordpress/bemins/wp-content/uploads/2023/12/products-36-1.jpg"
+      ]
+    },
+    {
+      "id": 12,
+      "ad": "Cozy Fleece Mega Sweatpant",
+      "fiyat": 75.0,
+      "aciklama": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+      "colors": ["Black", "Beige", "white", "green", "Brick"],
+      "size": ["XL", "S", "L", "M"],
+      "SKU": "D1112",
+      "kategori": "Top",
+      "altKategori": "Shirts",
+      "marka": "???",
+      "tag": ["trend", "hot"],
+
+      "indirim": 10,
+      "indirimBitis": "2024-12-31",
+
+      "puan": 4.5,
+      "tarih": "2024-07-01",
+      "fotograflar": [
+        "https://wpbingosite.com/wordpress/bemins/wp-content/uploads/2018/05/products-37-1.jpg",
+        "https://wpbingosite.com/wordpress/bemins/wp-content/uploads/2018/05/products-38-1.jpg",
+        "https://wpbingosite.com/wordpress/bemins/wp-content/uploads/2018/05/products-39-1.jpg",
+        "https://wpbingosite.com/wordpress/bemins/wp-content/uploads/2018/05/products-40.jpg"
+      ]
+    },
+    {
+      "id": 13,
+      "ad": "Crown Puffer",
+      "fiyat": 100.0,
+      "aciklama": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+      "colors": ["Black", "pink", "white"],
+      "size": ["L", "M", "S"],
+      "SKU": "D1112",
+      "kategori": "Top",
+      "altKategori": "Shirts",
+      "marka": "???",
+      "tag": ["trend", "hot", "life style"],
+
+      "indirim": 10,
+      "indirimBitis": "2024-12-31",
+
+      "puan": 4.5,
+      "tarih": "2024-07-01",
+      "fotograflar": [
+        "https://wpbingosite.com/wordpress/bemins/wp-content/uploads/2020/04/products-43-1.jpg",
+        "https://wpbingosite.com/wordpress/bemins/wp-content/uploads/2020/04/products-44-1.jpg",
+        "https://wpbingosite.com/wordpress/bemins/wp-content/uploads/2020/04/products-45-1.jpg",
+        "https://wpbingosite.com/wordpress/bemins/wp-content/uploads/2020/04/products-46.jpg"
+      ]
+    },
+    {
+      "id": 14,
+      "ad": "Curator Bag",
+      "fiyat": 100.0,
+      "aciklama": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+      "colors": [],
+      "size": [],
+      "SKU": "D1112",
+      "kategori": "Bag",
+      "altKategori": "",
+      "marka": "???",
+      "tag": ["trend", "hot"],
+
+      "indirim": 10,
+      "indirimBitis": "2024-12-31",
+
+      "puan": 4.5,
+      "tarih": "2024-07-01",
+      "fotograflar": [
+        "https://wpbingosite.com/wordpress/bemins/wp-content/uploads/2020/12/products-47-1.jpg",
+        "https://wpbingosite.com/wordpress/bemins/wp-content/uploads/2020/12/products-48-1.jpg"
+      ]
+    },
+    {
+      "id": 15,
+      "ad": "Elessi Knit",
+      "fiyat": 80.0,
+      "aciklama": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+      "colors": ["gray", "Blue", "yellow"],
+      "size": ["M", "S", "XL"],
+      "SKU": "D1112",
+      "kategori": "Top",
+      "altKategori": "Shirts",
+      "marka": "???",
+      "tag": ["trend", "hot"],
+
+      "indirim": 10,
+      "indirimBitis": "2024-12-31",
+
+      "puan": 4.5,
+      "tarih": "2024-07-01",
+      "fotograflar": [
+        "https://wpbingosite.com/wordpress/bemins/wp-content/uploads/2024/04/1.jpg",
+        "https://wpbingosite.com/wordpress/bemins/wp-content/uploads/2024/04/3.jpg",
+        "https://wpbingosite.com/wordpress/bemins/wp-content/uploads/2024/04/2.jpg",
+        "https://wpbingosite.com/wordpress/bemins/wp-content/uploads/2024/04/4.jpg"
+      ]
+    },
+    {
+      "id": 16,
+      "ad": "Keep Large Tote",
+      "fiyat": 100.0,
+      "aciklama": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+      "colors": [],
+      "size": [],
+      "SKU": "D1112",
+      "kategori": "Bag",
+      "altKategori": "",
+      "marka": "???",
+      "tag": ["trend", "hot"],
+
+      "indirim": 10,
+      "indirimBitis": "2024-12-31",
+
+      "puan": 4.5,
+      "tarih": "2024-07-01",
+      "fotograflar": [
+        "https://wpbingosite.com/wordpress/bemins/wp-content/uploads/2020/12/products-51.jpg",
+        "https://wpbingosite.com/wordpress/bemins/wp-content/uploads/2020/12/products-52.jpg",
+        "https://wpbingosite.com/wordpress/bemins/wp-content/uploads/2020/12/products-53.jpg",
+        "https://wpbingosite.com/wordpress/bemins/wp-content/uploads/2020/12/products-54-1.jpg"
+      ]
+    },
+    {
+      "id": 17,
+      "ad": "Marlo Hi-Rise Baggy Jean",
+      "fiyat": 110.0,
+      "aciklama": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+      "colors": ["white", "Blue", "Black"],
+      "size": ["L", "M", "XL"],
+      "SKU": "D1112",
+      "kategori": "Glasses",
+      "altKategori": "Shirts",
+      "marka": "???",
+      "tag": ["trend", "hot"],
+
+      "indirim": 10,
+      "indirimBitis": "2024-12-31",
+
+      "puan": 4.5,
+      "tarih": "2024-07-01",
+      "fotograflar": [
+        "https://wpbingosite.com/wordpress/bemins/wp-content/uploads/2023/12/products-35-1.jpg",
+        "https://wpbingosite.com/wordpress/bemins/wp-content/uploads/2023/12/products-36-1.jpg"
+      ]
+    },
+    {
+      "id": 18,
+      "ad": "Men’s Thick Life Jacket",
+      "fiyat": 150.0,
+      "aciklama": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+      "colors": [],
+      "size": [],
+      "SKU": "D1112",
+      "kategori": "Top",
+      "altKategori": "dress shirt",
+      "marka": "???",
+      "tag": ["trend", "hot"],
+
+      "indirim": 10,
+      "indirimBitis": "2024-12-31",
+
+      "puan": 4.5,
+      "tarih": "2024-07-01",
+      "fotograflar": [
+        "https://wpbingosite.com/wordpress/bemins/wp-content/uploads/2020/12/products-59-2.jpg",
+        "https://wpbingosite.com/wordpress/bemins/wp-content/uploads/2020/12/products-60.jpg",
+        "https://wpbingosite.com/wordpress/bemins/wp-content/uploads/2020/12/products-61-2.jpg",
+        "https://wpbingosite.com/wordpress/bemins/wp-content/uploads/2020/12/products-62.jpg"
+      ]
+    },
+    {
+      "id": 9,
+      "ad": "New Bridger Cargo Pant",
+      "fiyat": 90.0,
+      "aciklama": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+      "colors": ["Beige", "gray", "white"],
+      "size": ["L", "M", "XL"],
+      "SKU": "D1112",
+      "kategori": "Top",
+      "altKategori": "Shirts",
+      "marka": "???",
+      "tag": ["trend", "hot"],
+
+      "indirim": 10,
+      "indirimBitis": "2024-12-31",
+
+      "puan": 4.5,
+      "tarih": "2024-07-01",
+      "fotograflar": [
+        "https://wpbingosite.com/wordpress/bemins/wp-content/uploads/2020/12/products-63.jpg",
+        "https://wpbingosite.com/wordpress/bemins/wp-content/uploads/2020/12/products-64.jpg",
+        "https://wpbingosite.com/wordpress/bemins/wp-content/uploads/2020/12/products-65.jpg",
+        "https://wpbingosite.com/wordpress/bemins/wp-content/uploads/2020/12/products-66.jpg"
+      ]
+    },
+    {
+      "id": 20,
+      "ad": "Phoebe Mini Bag",
+      "fiyat": 48.0,
+      "aciklama": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+      "colors": ["pink", "white", "yellow"],
+      "size": [],
+      "SKU": "D1112",
+      "kategori": "Bag",
+      "altKategori": "",
+      "marka": "???",
+      "tag": ["trend", "hot"],
+
+      "indirim": 10,
+      "indirimBitis": "2024-12-31",
+
+      "puan": 4.5,
+      "tarih": "2024-07-01",
+      "fotograflar": [
+        "https://wpbingosite.com/wordpress/bemins/wp-content/uploads/2022/08/products-67-1.jpg",
+        "https://wpbingosite.com/wordpress/bemins/wp-content/uploads/2022/08/products-68-1.jpg"
+      ]
+    },
+    {
+      "id": 21,
+      "ad": "River Jacket",
+      "fiyat": 115.0,
+      "aciklama": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+      "colors": ["Black", "white"],
+      "size": ["L", "M", "S", "XL"],
+      "SKU": "D1112",
+      "kategori": "Top",
+      "altKategori": "Shirts",
+      "marka": "???",
+      "tag": ["trend", "hot"],
+
+      "indirim": 10,
+      "indirimBitis": "2024-12-31",
+
+      "puan": 4.5,
+      "tarih": "2024-07-01",
+      "fotograflar": [
+        "https://wpbingosite.com/wordpress/bemins/wp-content/uploads/2023/12/products-71.jpg",
+        "https://wpbingosite.com/wordpress/bemins/wp-content/uploads/2023/12/products-72.jpg",
+        "https://wpbingosite.com/wordpress/bemins/wp-content/uploads/2023/12/products-73.jpg"
+      ]
+    },
+    {
+      "id": 22,
+      "ad": "Terry Fleece Perfect Hoodie",
+      "fiyat": 62.0,
+      "aciklama": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+      "colors": [],
+      "size": [],
+      "SKU": "D1112",
+      "kategori": "Top",
+      "altKategori": "Shirts",
+      "marka": "???",
+      "tag": ["trend", "hot"],
+
+      "indirim": 10,
+      "indirimBitis": "2024-12-31",
+
+      "puan": 4.5,
+      "tarih": "2024-07-01",
+      "fotograflar": [
+        "https://wpbingosite.com/wordpress/bemins/wp-content/uploads/2022/08/products-74.jpg",
+        "https://wpbingosite.com/wordpress/bemins/wp-content/uploads/2022/08/products-75.jpg",
+        "https://wpbingosite.com/wordpress/bemins/wp-content/uploads/2022/08/products-76.jpg",
+        "https://wpbingosite.com/wordpress/bemins/wp-content/uploads/2022/08/products-77.jpg"
+      ]
+    },
+    {
+      "id": 23,
+      "ad": "Terry Fleece Sweatshirt",
+      "fiyat": 50.0,
+      "aciklama": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+      "colors": ["Beige", "gray", "white"],
+      "size": ["L", "XL", "M"],
+      "SKU": "D1112",
+      "kategori": "Top",
+      "altKategori": "Shirts",
+      "marka": "???",
+      "tag": ["trend", "hot"],
+
+      "indirim": 10,
+      "indirimBitis": "2024-12-31",
+
+      "puan": 4.5,
+      "tarih": "2024-07-01",
+      "fotograflar": [
+        "https://wpbingosite.com/wordpress/bemins/wp-content/uploads/2020/12/products-78.jpg",
+        "https://wpbingosite.com/wordpress/bemins/wp-content/uploads/2022/08/products-79.jpg",
+        "https://wpbingosite.com/wordpress/bemins/wp-content/uploads/2022/08/products-80.jpg",
+        "https://wpbingosite.com/wordpress/bemins/wp-content/uploads/2022/08/products-81.jpg"
+      ]
+    },
+    {
+      "id": 24,
+      "ad": "The ’90s Ricci Jean Skirt",
+      "fiyat": 115.0,
+      "aciklama": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+      "colors": [],
+      "size": [],
+      "SKU": "D1112",
+      "kategori": "Top",
+      "altKategori": "Shirts",
+      "marka": "???",
+      "tag": ["trend", "hot"],
+
+      "indirim": 10,
+      "indirimBitis": "2024-12-31",
+
+      "puan": 4.5,
+      "tarih": "2024-07-01",
+      "fotograflar": [
+        "https://wpbingosite.com/wordpress/bemins/wp-content/uploads/2020/12/products-82-1.jpg",
+        "https://wpbingosite.com/wordpress/bemins/wp-content/uploads/2020/12/products-82-2.jpg",
+        "https://wpbingosite.com/wordpress/bemins/wp-content/uploads/2020/12/products-82-3.jpg",
+        "https://wpbingosite.com/wordpress/bemins/wp-content/uploads/2020/12/products-82-4.jpg"
+      ]
+    },
+    {
+      "id": 25,
+      "ad": "VEJA Venturi Trainers",
+      "fiyat": 255.0,
+      "aciklama": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+      "colors": [],
+      "size": [],
+      "SKU": "D1112",
+      "kategori": "Shoes",
+      "altKategori": "",
+      "marka": "???",
+      "tag": ["trend", "hot"],
+
+      "indirim": 10,
+      "indirimBitis": "2024-12-31",
+
+      "puan": 4.5,
+      "tarih": "2024-07-01",
+      "fotograflar": [
+        "https://wpbingosite.com/wordpress/bemins/wp-content/uploads/2018/10/360.jpg",
+        "https://wpbingosite.com/wordpress/bemins/wp-content/uploads/2018/10/361.jpg",
+        "https://wpbingosite.com/wordpress/bemins/wp-content/uploads/2018/10/362.jpg",
+        "https://wpbingosite.com/wordpress/bemins/wp-content/uploads/2018/10/363.jpg"
+      ]
+    },
+    {
+      "id": 26,
+      "ad": "Waffle East Longsleeve",
+      "fiyat": 154.0,
+      "aciklama": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+      "colors": [],
+      "size": [],
+      "SKU": "D1112",
+      "kategori": "Top",
+      "altKategori": "Shirts",
+      "marka": "???",
+      "tag": ["trend", "hot"],
+
+      "indirim": 10,
+      "indirimBitis": "2024-12-31",
+
+      "puan": 4.5,
+      "tarih": "2024-07-01",
+      "fotograflar": [
+        "https://wpbingosite.com/wordpress/bemins/wp-content/uploads/2020/12/products-86-1.jpg",
+        "https://wpbingosite.com/wordpress/bemins/wp-content/uploads/2020/12/products-86-2.jpg",
+        "https://wpbingosite.com/wordpress/bemins/wp-content/uploads/2020/12/products-86-3.jpg",
+        "https://wpbingosite.com/wordpress/bemins/wp-content/uploads/2020/12/products-86-4.jpg"
+      ]
+    },
+    {
+      "id": 27,
+      "ad": "XBond Shelving – Ceiling Mounted",
+      "fiyat": 166.0,
+      "aciklama": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+      "colors": [],
+      "size": [],
+      "SKU": "D1112",
+      "kategori": "Furniture",
+      "altKategori": "chair",
+      "marka": "???",
+      "tag": ["trend", "hot"],
+
+      "indirim": 10,
+      "indirimBitis": "2024-12-31",
+
+      "puan": 4.5,
+      "tarih": "2024-07-01",
+      "fotograflar": [
+        "https://wpbingosite.com/wordpress/bemins/wp-content/uploads/2024/03/pro-8.jpg",
+        "https://wpbingosite.com/wordpress/bemins/wp-content/uploads/2024/03/pro-9.jpg",
+        "https://wpbingosite.com/wordpress/bemins/wp-content/uploads/2024/03/pro-10.jpg"
+      ]
+    },
+    {
+      "id": 28,
+      "ad": "XCH07 Shell Chair – Leather",
+      "fiyat": 300.0,
+      "aciklama": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+      "colors": [],
+      "size": [],
+      "SKU": "D1112",
+      "kategori": "Furniture",
+      "altKategori": "chair",
+      "marka": "???",
+      "tag": ["trend", "hot"],
+
+      "indirim": 10,
+      "indirimBitis": "2024-12-31",
+
+      "puan": 4.5,
+      "tarih": "2024-07-01",
+      "fotograflar": [
+        "https://wpbingosite.com/wordpress/bemins/wp-content/uploads/2024/03/pro-20.jpg",
+        "https://wpbingosite.com/wordpress/bemins/wp-content/uploads/2024/03/pro-21.jpg",
+        "https://wpbingosite.com/wordpress/bemins/wp-content/uploads/2024/03/pro-22.jpg"
+      ]
+    },
+    {
+      "id": 29,
+      "ad": "XDiamonds And Gold Letter A Necklace",
+      "fiyat": 51.0,
+      "aciklama": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+      "colors": [],
+      "size": [],
+      "SKU": "D1112",
+      "kategori": "jewerly",
+      "altKategori": "",
+      "marka": "???",
+      "tag": ["trend", "hot"],
+
+      "indirim": 10,
+      "indirimBitis": "2024-12-31",
+
+      "puan": 4.5,
+      "tarih": "2024-07-01",
+      "fotograflar": [
+        "https://wpbingosite.com/wordpress/bemins/wp-content/uploads/2024/03/pro-53.jpg",
+        "https://wpbingosite.com/wordpress/bemins/wp-content/uploads/2024/03/pro-54.jpg",
+        "https://wpbingosite.com/wordpress/bemins/wp-content/uploads/2024/03/pro-55.jpg"
+      ]
+    },
+    {
+      "id": 30,
+      "ad": "XEames Elephant",
+      "fiyat": 152.0,
+      "aciklama": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+      "colors": [],
+      "size": [],
+      "SKU": "D1112",
+      "kategori": "Furniture",
+      "altKategori": "decor",
+      "marka": "???",
+      "tag": ["trend", "hot"],
+
+      "indirim": 10,
+      "indirimBitis": "2024-12-31",
+
+      "puan": 4.5,
+      "tarih": "2024-07-01",
+      "fotograflar": [
+        "https://wpbingosite.com/wordpress/bemins/wp-content/uploads/2024/03/pro-18.jpg",
+        "https://wpbingosite.com/wordpress/bemins/wp-content/uploads/2024/03/pro-19.jpg"
+      ]
+    },
+    {
+      "id": 31,
+      "ad": "XGreen Aventurine Moon Ring",
+      "fiyat": 105.0,
+      "aciklama": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+      "colors": [],
+      "size": [],
+      "SKU": "D1112",
+      "kategori": "jewerly",
+      "altKategori": "rings",
+      "marka": "???",
+      "tag": ["trend", "hot"],
+
+      "indirim": 10,
+      "indirimBitis": "2024-12-31",
+
+      "puan": 4.5,
+      "tarih": "2024-07-01",
+      "fotograflar": [
+        "https://wpbingosite.com/wordpress/bemins/wp-content/uploads/2024/03/pro-45.jpg",
+        "https://wpbingosite.com/wordpress/bemins/wp-content/uploads/2024/03/pro-46.jpg",
+        "https://wpbingosite.com/wordpress/bemins/wp-content/uploads/2024/03/pro-47.jpg",
+        "https://wpbingosite.com/wordpress/bemins/wp-content/uploads/2024/03/pro-48.jpg"
+      ]
+    },
+    {
+      "id": 32,
+      "ad": "XLato Side Table",
+      "fiyat": 82.0,
+      "aciklama": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+      "colors": [],
+      "size": [],
+      "SKU": "D1112",
+      "kategori": "Furniture",
+      "altKategori": "decor",
+      "marka": "???",
+      "tag": ["trend", "hot"],
+
+      "indirim": 10,
+      "indirimBitis": "2024-12-31",
+
+      "puan": 4.5,
+      "tarih": "2024-07-01",
+      "fotograflar": [
+        "https://wpbingosite.com/wordpress/bemins/wp-content/uploads/2024/03/pro-26-1.jpg",
+        "https://wpbingosite.com/wordpress/bemins/wp-content/uploads/2024/03/pro-26-2.jpg",
+        "https://wpbingosite.com/wordpress/bemins/wp-content/uploads/2024/03/pro-26-3.jpg",
+        "https://wpbingosite.com/wordpress/bemins/wp-content/uploads/2024/03/pro-26-4.jpg"
+      ]
+    },
+    {
+      "id": 33,
+      "ad": "XMini Magma Hoops",
+      "fiyat": 95.0,
+      "aciklama": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+      "colors": [],
+      "size": [],
+      "SKU": "D1112",
+      "kategori": "jewerly",
+      "altKategori": "Earrings",
+      "marka": "???",
+      "tag": ["trend", "hot"],
+
+      "indirim": 10,
+      "indirimBitis": "2024-12-31",
+
+      "puan": 4.5,
+      "tarih": "2024-07-01",
+      "fotograflar": [
+        "https://wpbingosite.com/wordpress/bemins/wp-content/uploads/2024/03/pro-37.jpg",
+        "https://wpbingosite.com/wordpress/bemins/wp-content/uploads/2024/03/pro-38.jpg",
+        "https://wpbingosite.com/wordpress/bemins/wp-content/uploads/2024/03/pro-39.jpg",
+        "https://wpbingosite.com/wordpress/bemins/wp-content/uploads/2024/03/pro-40.jpg"
+      ]
+    },
+    {
+      "id": 34,
+      "ad": "XMore Cute Things",
+      "fiyat": 95.0,
+      "aciklama": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+      "colors": [],
+      "size": [],
+      "SKU": "D1112",
+      "kategori": "Furniture",
+      "altKategori": "decor",
+      "marka": "???",
+      "tag": ["trend"],
+
+      "indirim": 10,
+      "indirimBitis": "2024-12-31",
+
+      "puan": 4.5,
+      "tarih": "2024-07-01",
+      "fotograflar": [
+        "https://wpbingosite.com/wordpress/bemins/wp-content/uploads/2024/03/pro-11.jpg",
+        "https://wpbingosite.com/wordpress/bemins/wp-content/uploads/2024/03/pro-12.jpg",
+        "https://wpbingosite.com/wordpress/bemins/wp-content/uploads/2024/03/pro-13.jpg",
+        "https://wpbingosite.com/wordpress/bemins/wp-content/uploads/2024/03/pro-14.jpg"
+      ]
+    },
+    {
+      "id": 35,
+      "ad": "XSand Solitary Necklace",
+      "fiyat": 50.0,
+      "aciklama": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+      "colors": [],
+      "size": [],
+      "SKU": "D1112",
+      "kategori": "jewerly",
+      "altKategori": "",
+      "marka": "???",
+      "tag": ["trend", "hot"],
+
+      "indirim": 10,
+      "indirimBitis": "2024-12-31",
+
+      "puan": 4.5,
+      "tarih": "2024-07-01",
+      "fotograflar": [
+        "https://wpbingosite.com/wordpress/bemins/wp-content/uploads/2024/03/pro-56.jpg",
+        "https://wpbingosite.com/wordpress/bemins/wp-content/uploads/2024/03/pro-57.jpg",
+        "https://wpbingosite.com/wordpress/bemins/wp-content/uploads/2024/03/pro-58.jpg"
+      ]
+    },
+    {
+      "id": 36,
+      "ad": "XSuper Nova Earrings",
+      "fiyat": 125.0,
+      "aciklama": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+      "colors": [],
+      "size": [],
+      "SKU": "D1112",
+      "kategori": "jewerly",
+      "altKategori": "Earrings",
+      "marka": "???",
+      "tag": ["trend", "hot"],
+
+      "indirim": 10,
+      "indirimBitis": "2024-12-31",
+
+      "puan": 4.5,
+      "tarih": "2024-07-01",
+      "fotograflar": [
+        "https://wpbingosite.com/wordpress/bemins/wp-content/uploads/2024/03/pro-34.jpg",
+        "https://wpbingosite.com/wordpress/bemins/wp-content/uploads/2024/03/pro-35.jpg",
+        "https://wpbingosite.com/wordpress/bemins/wp-content/uploads/2024/03/pro-36.jpg"
+      ]
+    },
+    {
+      "id": 37,
+      "ad": "ZAbout A Chair AAC 22 – Oak Base",
+      "fiyat": 100.0,
+      "aciklama": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+      "colors": ["Blue", "green", "yellow"],
+      "size": [],
+      "SKU": "D1112",
+      "kategori": "Furniture",
+      "altKategori": "chair",
+      "marka": "???",
+      "tag": ["trend", "hot"],
+
+      "indirim": 10,
+      "indirimBitis": "2024-12-31",
+
+      "puan": 4.5,
+      "tarih": "2024-07-01",
+      "fotograflar": [
+        "https://wpbingosite.com/wordpress/bemins/wp-content/uploads/2024/03/pro-1.jpg",
+        "https://wpbingosite.com/wordpress/bemins/wp-content/uploads/2024/03/pro-2.jpg",
+        "https://wpbingosite.com/wordpress/bemins/wp-content/uploads/2024/03/pro-3.jpg"
+      ]
+    },
+    {
+      "id": 38,
+      "ad": "ZBond Bracelet",
+      "fiyat": 126.0,
+      "aciklama": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+      "colors": [],
+      "size": [],
+      "SKU": "D1112",
+      "kategori": "jewerly",
+      "altKategori": "",
+      "marka": "???",
+      "tag": ["trend", "hot"],
+
+      "indirim": 10,
+      "indirimBitis": "2024-12-31",
+
+      "puan": 4.5,
+      "tarih": "2024-07-01",
+      "fotograflar": [
+        "https://wpbingosite.com/wordpress/bemins/wp-content/uploads/2024/03/pro-30.jpg",
+        "https://wpbingosite.com/wordpress/bemins/wp-content/uploads/2024/03/pro-31.jpg",
+        "https://wpbingosite.com/wordpress/bemins/wp-content/uploads/2024/03/pro-32.jpg",
+        "https://wpbingosite.com/wordpress/bemins/wp-content/uploads/2024/03/pro-33.jpg"
+      ]
+    },
+    {
+      "id": 39,
+      "ad": "ZBouquet Flower Vase",
+      "fiyat": 105.0,
+      "aciklama": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+      "colors": [],
+      "size": [],
+      "SKU": "D1112",
+      "kategori": "Furniture",
+      "altKategori": "decor",
+      "marka": "???",
+      "tag": ["trend"],
+
+      "indirim": 10,
+      "indirimBitis": "2024-12-31",
+
+      "puan": 4.5,
+      "tarih": "2024-07-01",
+      "fotograflar": [
+        "https://wpbingosite.com/wordpress/bemins/wp-content/uploads/2024/03/pro-4.jpg",
+        "https://wpbingosite.com/wordpress/bemins/wp-content/uploads/2024/03/pro-5.jpg",
+        "https://wpbingosite.com/wordpress/bemins/wp-content/uploads/2024/03/pro-6.jpg",
+        "https://wpbingosite.com/wordpress/bemins/wp-content/uploads/2024/03/pro-7.jpg"
+      ]
+    },
+    {
+      "id": 40,
+      "ad": "ZCaravaggio Read Wall Light",
+      "fiyat": 52.0,
+      "aciklama": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+      "colors": [],
+      "size": [],
+      "SKU": "D1112",
+      "kategori": "Furniture",
+      "altKategori": "decor",
+      "marka": "???",
+      "tag": ["trend"],
+
+      "indirim": 10,
+      "indirimBitis": "2024-12-31",
+
+      "puan": 4.5,
+      "tarih": "2024-07-01",
+      "fotograflar": [
+        "https://wpbingosite.com/wordpress/bemins/wp-content/uploads/2024/03/pro-23.jpg",
+        "https://wpbingosite.com/wordpress/bemins/wp-content/uploads/2024/03/pro-24.jpg",
+        "https://wpbingosite.com/wordpress/bemins/wp-content/uploads/2024/03/pro-25.jpg"
+      ]
+    },
+    {
+      "id": 41,
+      "ad": "ZCoral Hoops",
+      "fiyat": 120.0,
+      "aciklama": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+      "colors": [],
+      "size": [],
+      "SKU": "D1112",
+      "kategori": "jewerly",
+      "altKategori": "Earrings",
+      "marka": "???",
+      "tag": ["trend"],
+
+      "indirim": 10,
+      "indirimBitis": "2024-12-31",
+
+      "puan": 4.5,
+      "tarih": "2024-07-01",
+      "fotograflar": [
+        "https://wpbingosite.com/wordpress/bemins/wp-content/uploads/2024/03/pro-41.jpg",
+        "https://wpbingosite.com/wordpress/bemins/wp-content/uploads/2024/03/pro-42.jpg",
+        "https://wpbingosite.com/wordpress/bemins/wp-content/uploads/2024/03/pro-43.jpg",
+        "https://wpbingosite.com/wordpress/bemins/wp-content/uploads/2024/03/pro-44.jpg"
+      ]
+    },
+    {
+      "id": 42,
+      "ad": "ZCubic Plinth",
+      "fiyat": 200.0,
+      "aciklama": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+      "colors": [],
+      "size": [],
+      "SKU": "D1112",
+      "kategori": "Furniture",
+      "altKategori": "decor",
+      "marka": "???",
+      "tag": ["trend"],
+
+      "indirim": 10,
+      "indirimBitis": "2024-12-31",
+
+      "puan": 4.5,
+      "tarih": "2024-07-01",
+      "fotograflar": [
+        "https://wpbingosite.com/wordpress/bemins/wp-content/uploads/2024/03/pro-15.jpg",
+        "https://wpbingosite.com/wordpress/bemins/wp-content/uploads/2024/03/pro-16.jpg",
+        "https://wpbingosite.com/wordpress/bemins/wp-content/uploads/2024/03/pro-17.jpg"
+      ]
+    },
+    {
+      "id": 43,
+      "ad": "ZOlympia Ring",
+      "fiyat": 105.0,
+      "aciklama": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+      "colors": [],
+      "size": [],
+      "SKU": "D1112",
+      "kategori": "jewerly",
+      "altKategori": "rings",
+      "marka": "???",
+      "tag": ["trend"],
+
+      "indirim": 10,
+      "indirimBitis": "2024-12-31",
+
+      "puan": 4.5,
+      "tarih": "2024-07-01",
+      "fotograflar": [
+        "https://wpbingosite.com/wordpress/bemins/wp-content/uploads/2024/03/pro-49.jpg",
+        "https://wpbingosite.com/wordpress/bemins/wp-content/uploads/2024/03/pro-50.jpg",
+        "https://wpbingosite.com/wordpress/bemins/wp-content/uploads/2024/03/pro-51.jpg",
+        "https://wpbingosite.com/wordpress/bemins/wp-content/uploads/2024/03/pro-52.jpg"
+      ]
+    },
+    {
+      "id": 44,
+      "ad": "Zswim Shorts",
+      "fiyat": 180.0,
+      "aciklama": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+      "colors": [],
+      "size": [],
+      "SKU": "D1112",
+      "kategori": "alt",
+      "altKategori": "Shirts",
+      "marka": "???",
+      "tag": ["trend"],
+
+      "indirim": 10,
+      "indirimBitis": "2024-12-31",
+
+      "puan": 4.5,
+      "tarih": "2024-07-01",
+      "fotograflar": [
+        "https://wpbingosite.com/wordpress/bemins/wp-content/uploads/2020/12/products-full-1.jpg",
+        "https://wpbingosite.com/wordpress/bemins/wp-content/uploads/2020/12/products-full-2.jpg",
+        "https://wpbingosite.com/wordpress/bemins/wp-content/uploads/2020/12/products-full-3.jpg"
+      ]
+    }
+  ]
+}

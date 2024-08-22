@@ -1,0 +1,17 @@
+/* Slider'ın görünümünü ayarlamak için CSS */
+.horizontal-slider {
+  width: 100%;
+  height: 6px; /* Slider'ın yüksekliği */
+}
+
+.thumb {
+  width: 20px; /* Kaydırıcının (thumb) genişliği */
+  height: 20px; /* Kaydırıcının (thumb) yüksekliği */
+  background-color: #007bff; /* Kaydırıcının (thumb) rengi */
+  border-radius: 50%; /* Kaydırıcının (thumb) yuvarlak görünmesi için */
+  cursor: pointer; /* Kaydırıcının (thumb) üzerine geldiğinde imlecin değişmesi */
+}
+
+.track {
+  background-color: #d3d3d3; /* Kaydırıcının (track) arka plan rengi */
+}
