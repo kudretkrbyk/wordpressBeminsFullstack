@@ -1,4 +1,5 @@
 import { useEffect, useState } from "react";
+import axios from "axios";
 
 import ShopTopMenu from "../components/ShopPageComps/ShopTopMenu";
 import useFetchProducts from "../hooks/useFetchProducts";
@@ -51,6 +52,26 @@ export default function Shop({ categoryNameFilter }) {
     selectedSizes,
     setFilteredProducts
   );
+  useEffect(() => {
+    if (categories.length > 0) {
+      // Sadece name ve image alanlarını al
+      const filteredCategories = categories.map((category) => ({
+        name: category.name,
+        image: category.image,
+      }));
+
+      axios
+        .post("http://localhost:5000/api/categories", filteredCategories)
+        .then((response) => {
+          console.log("Veriler başarıyla gönderildi:", response.data);
+        })
+        .catch((error) => {
+          console.error("Veri gönderimi sırasında bir hata oluştu:", error);
+        });
+    } else {
+      console.error("Categories dizisi boş, istek gönderilmiyor.");
+    }
+  }, [categories]);
 
   return (
     <div className="w-full flex flex-col relative">

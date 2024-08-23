@@ -12,6 +12,7 @@
   "dependencies": {
     "@babel/runtime": "^7.25.0",
     "@reduxjs/toolkit": "^2.2.7",
+    "axios": "^1.7.4",
     "country-state-city": "^3.2.1",
     "jQuery": "^1.7.4",
     "prop-types": "^15.8.1",
