@@ -52,26 +52,58 @@ export default function Shop({ categoryNameFilter }) {
     selectedSizes,
     setFilteredProducts
   );
+  console.log("ürünler", productList);
   useEffect(() => {
-    if (categories.length > 0) {
-      // Sadece name ve image alanlarını al
-      const filteredCategories = categories.map((category) => ({
-        name: category.name,
-        image: category.image,
+    if (productList.length > 0) {
+      const filteredProducts = productList.map((item) => ({
+        name: item.ad,
+        definition: item.aciklama, // Burayı definition olarak değiştirin
+        price: item.fiyat,
+        discount: item.indirim,
+        discount_date: item.indirimBitis, // Eğer bu alan veritabanında yoksa, kontrol edin
+        date: item.tarih,
+        sku: item.SKU,
       }));
 
       axios
-        .post("http://localhost:5000/api/categories", filteredCategories)
+        .post("http://localhost:5000/api/products", filteredProducts)
         .then((response) => {
           console.log("Veriler başarıyla gönderildi:", response.data);
         })
         .catch((error) => {
-          console.error("Veri gönderimi sırasında bir hata oluştu:", error);
+          console.error(
+            "Veri gönderimi sırasında bir hata oluştu:",
+            error.response.data
+          ); // Hata mesajını daha ayrıntılı görmek için
         });
     } else {
-      console.error("Categories dizisi boş, istek gönderilmiyor.");
+      console.error("ProductList dizisi boş, istek gönderilmiyor.");
     }
-  }, [categories]);
+  }, [productList]);
+  // useEffect(() => {
+  //   if (categories.length > 0) {
+  //     console.log(categories);
+  //     // Sadece name ve image alanlarını al
+  //     // const filteredCategories = categories.map((category) => ({
+  //     //   name: category.name,
+  //     //   image: category.image,
+  //     // }));
+
+  //     axios
+  //       .post(
+  //         "http://localhost:5000/api/categories-with-subcategories",
+  //         categories
+  //       )
+  //       .then((response) => {
+  //         console.log("Veriler başarıyla gönderildi:", response.data);
+  //       })
+  //       .catch((error) => {
+  //         console.error("Veri gönderimi sırasında bir hata oluştu:", error);
+  //       });
+  //   } else {
+  //     console.error("Categories dizisi boş, istek gönderilmiyor.");
+  //   }
+  // }, [categories]);
 
   return (
     <div className="w-full flex flex-col relative">
