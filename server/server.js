@@ -5,6 +5,7 @@ require("dotenv").config();
 const categoryRoutes = require("./src/routes/categoryRoutes");
 const productRoutes = require("./src/routes/productRoutes");
 const subCategoryRoutes = require("./src/routes/subCategoryRoutes");
+const getProducts = require("./src/api/get/getProducts");
 
 const app = express();
 
@@ -12,10 +13,9 @@ const app = express();
 app.use(cors());
 app.use(express.json());
 
-// Routes
-app.use("/api", categoryRoutes);
-app.use("/api", productRoutes);
-app.use("/api", subCategoryRoutes);
+// get istekleri
+
+app.get("/products", getProducts);
 
 app.get("/", (req, res) => {
   res.send("API is running...");

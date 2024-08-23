@@ -14,6 +14,7 @@ import OrderTracking from "./pages/OrderTracking";
 import FilteredProductsPage from "./pages/FilteredProductsPage";
 import ErrorPage from "./pages/ErrorPage";
 import Favorites from "./pages/Favorites";
+import Products from "./pages/Products";
 
 function App() {
   return (
@@ -33,6 +34,7 @@ function App() {
 
         <Route path="/product/:productId" element={<ProductPage />} />
         <Route path="/shop/:categoryName" element={<FilteredProductsPage />} />
+        <Route path="/products" element={<Products />} />
         <Route path="/*" element={<ErrorPage />} />
       </Routes>
       <Footer></Footer>

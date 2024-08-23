@@ -53,33 +53,33 @@ export default function Shop({ categoryNameFilter }) {
     setFilteredProducts
   );
   console.log("ürünler", productList);
-  useEffect(() => {
-    if (productList.length > 0) {
-      const filteredProducts = productList.map((item) => ({
-        name: item.ad,
-        definition: item.aciklama, // Burayı definition olarak değiştirin
-        price: item.fiyat,
-        discount: item.indirim,
-        discount_date: item.indirimBitis, // Eğer bu alan veritabanında yoksa, kontrol edin
-        date: item.tarih,
-        sku: item.SKU,
-      }));
+  // useEffect(() => {
+  //   if (productList.length > 0) {
+  //     const filteredProducts = productList.map((item) => ({
+  //       name: item.ad,
+  //       definition: item.aciklama, // Burayı definition olarak değiştirin
+  //       price: item.fiyat,
+  //       discount: item.indirim,
+  //       discount_date: item.indirimBitis, // Eğer bu alan veritabanında yoksa, kontrol edin
+  //       date: item.tarih,
+  //       sku: item.SKU,
+  //     }));
 
-      axios
-        .post("http://localhost:5000/api/products", filteredProducts)
-        .then((response) => {
-          console.log("Veriler başarıyla gönderildi:", response.data);
-        })
-        .catch((error) => {
-          console.error(
-            "Veri gönderimi sırasında bir hata oluştu:",
-            error.response.data
-          ); // Hata mesajını daha ayrıntılı görmek için
-        });
-    } else {
-      console.error("ProductList dizisi boş, istek gönderilmiyor.");
-    }
-  }, [productList]);
+  //     axios
+  //       .post("http://localhost:5000/api/products", filteredProducts)
+  //       .then((response) => {
+  //         console.log("Veriler başarıyla gönderildi:", response.data);
+  //       })
+  //       .catch((error) => {
+  //         console.error(
+  //           "Veri gönderimi sırasında bir hata oluştu:",
+  //           error.response.data
+  //         ); // Hata mesajını daha ayrıntılı görmek için
+  //       });
+  //   } else {
+  //     console.error("ProductList dizisi boş, istek gönderilmiyor.");
+  //   }
+  // }, [productList]);
   // useEffect(() => {
   //   if (categories.length > 0) {
   //     console.log(categories);
