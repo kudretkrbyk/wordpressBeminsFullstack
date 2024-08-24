@@ -4,10 +4,11 @@ import axios from "axios";
 export default function ProductImages() {
   const [products, setProducts] = useState([]);
   const [imageUrls, setImageUrls] = useState({});
+  console.log("full pro", products);
 
   useEffect(() => {
     axios
-      .get("http://localhost:5000/products")
+      .get("http://localhost:5000/fullProducts")
       .then((response) => setProducts(response.data))
       .catch((error) => console.error("Error fetching products:", error));
   }, []);

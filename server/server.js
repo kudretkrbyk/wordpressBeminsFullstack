@@ -9,6 +9,7 @@ const updateProductOptions = require("./src/api/post/updateProductOptions");
 const getColors = require("./src/api/get/getColors");
 const getSizes = require("./src/api/get/getSizes");
 const updateProductImages = require("./src/api/post/updateProductImages");
+const getFullProducts = require("./src/api/get/getFullProducts");
 
 const app = express();
 
@@ -22,6 +23,7 @@ app.get("/products", getProducts);
 app.get("/categories", getCategories);
 app.get("/colors", getColors);
 app.get("/sizes", getSizes);
+app.get("/fullProducts", getFullProducts);
 
 app.get("/", (req, res) => {
   res.send("API is running...");
