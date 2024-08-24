@@ -15,6 +15,8 @@ import FilteredProductsPage from "./pages/FilteredProductsPage";
 import ErrorPage from "./pages/ErrorPage";
 import Favorites from "./pages/Favorites";
 import Products from "./pages/Products";
+import ProductSelection from "./pages/ProductSelection";
+import ProductImages from "./pages/ProductImages";
 
 function App() {
   return (
@@ -35,6 +37,8 @@ function App() {
         <Route path="/product/:productId" element={<ProductPage />} />
         <Route path="/shop/:categoryName" element={<FilteredProductsPage />} />
         <Route path="/products" element={<Products />} />
+        <Route path="/productSelection" element={<ProductSelection />} />
+        <Route path="/updateProductImages" element={<ProductImages />} />
         <Route path="/*" element={<ErrorPage />} />
       </Routes>
       <Footer></Footer>

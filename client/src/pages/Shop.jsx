@@ -52,6 +52,26 @@ export default function Shop({ categoryNameFilter }) {
     selectedSizes,
     setFilteredProducts
   );
+
+  useEffect(() => {
+    if (colorsList.length > 0) {
+      console.log(colorsList);
+      // PUT isteğini gönder
+      axios
+        .put("http://localhost:5000/api/colors", colorsList)
+        .then((response) => {
+          console.log("Renkler başarıyla güncellendi:", response.data);
+        })
+        .catch((error) => {
+          console.error(
+            "Veri gönderimi sırasında bir hata oluştu:",
+            error.response.data
+          );
+        });
+    } else {
+      console.error("colorsList dizisi boş, istek gönderilmiyor.");
+    }
+  }, [colorsList]);
   console.log("ürünler", productList);
   // useEffect(() => {
   //   if (productList.length > 0) {
