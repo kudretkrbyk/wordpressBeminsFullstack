@@ -38,7 +38,7 @@ function App() {
         <Route path="/shop/:categoryName" element={<FilteredProductsPage />} />
         <Route path="/products" element={<Products />} />
         <Route path="/productSelection" element={<ProductSelection />} />
-        <Route path="/updateProductImage" element={<ProductImages />} />
+        <Route path="/updateProductImages" element={<ProductImages />} />
         <Route path="/*" element={<ErrorPage />} />
       </Routes>
       <Footer></Footer>
