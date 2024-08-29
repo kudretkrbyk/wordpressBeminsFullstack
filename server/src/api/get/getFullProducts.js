@@ -3,19 +3,12 @@ const pool = require("../../config/db");
 
 const getFullProducts = async (req, res) => {
   try {
-    // Ürünleri al ve ilgili kategori ve alt kategori isimlerini al
+    // Ürünleri al
     const productsResult = await pool.query(`
-      SELECT 
-        p.id, 
-        p.name, 
-        p.definition, 
-        c.id AS category_id, 
-        c.name AS category_name, 
-        sc.id AS subcategory_id, 
-        sc.name AS subcategory_name
+      SELECT p.id, p.name, p.definition, c.id AS category_id, c.name AS category_name, sc.id AS subcategory_id, sc.name AS subcategory_name
       FROM products p
       LEFT JOIN categories c ON p.category_id = c.id
-      LEFT JOIN subcategories sc ON p.sub_category_id = sc.id
+      LEFT JOIN subcategories sc ON sc.parent_id = c.id
     `);
 
     const products = productsResult.rows;
@@ -52,10 +45,13 @@ const getFullProducts = async (req, res) => {
         category: {
           id: product.category_id,
           name: product.category_name,
-        },
-        subcategory: {
-          id: product.subcategory_id,
-          name: product.subcategory_name,
+          subcategories: products
+            .filter((p) => p.category_id === product.category_id)
+            .map((p) => ({
+              id: p.subcategory_id,
+              name: p.subcategory_name,
+            }))
+            .filter((subcategory) => subcategory.id), // null olanları filtrele
         },
         colors: productColors
           .filter((pc) => pc.product_id === product.id)

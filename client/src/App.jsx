@@ -17,6 +17,7 @@ import Favorites from "./pages/Favorites";
 import Products from "./pages/Products";
 import ProductSelection from "./pages/ProductSelection";
 import ProductImages from "./pages/ProductImages";
+import ProductCategories from "./pages/ProductCategories";
 
 function App() {
   return (
@@ -39,6 +40,7 @@ function App() {
         <Route path="/products" element={<Products />} />
         <Route path="/productSelection" element={<ProductSelection />} />
         <Route path="/updateProductImages" element={<ProductImages />} />
+        <Route path="/ProductCategories" element={<ProductCategories />} />
         <Route path="/*" element={<ErrorPage />} />
       </Routes>
       <Footer></Footer>

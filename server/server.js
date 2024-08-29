@@ -10,6 +10,8 @@ const getColors = require("./src/api/get/getColors");
 const getSizes = require("./src/api/get/getSizes");
 const updateProductImages = require("./src/api/post/updateProductImages");
 const getFullProducts = require("./src/api/get/getFullProducts");
+const updateProductCategories = require("./src/api/post/updateProductCategories");
+const getSubCategories = require("./src/api/get/getSubCategories");
 
 const app = express();
 
@@ -22,6 +24,7 @@ app.use(express.json());
 app.get("/products", getProducts);
 app.get("/categories", getCategories);
 app.get("/colors", getColors);
+app.get("/subcategories", getSubCategories);
 app.get("/sizes", getSizes);
 app.get("/fullProducts", getFullProducts);
 
@@ -33,6 +36,7 @@ app.get("/", (req, res) => {
 app.use("/api/colors", postColors);
 app.post("/updateProductOptions", updateProductOptions);
 app.post("/updateProductImages", updateProductImages);
+app.post("/updateProductCategories", updateProductCategories);
 
 // Start the server
 const PORT = process.env.PORT || 5000;
